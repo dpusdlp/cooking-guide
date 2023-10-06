@@ -1,0 +1,5 @@
+recipe name,butter chicken
+ingredients
+chicken 1kg
+chilly powder 100gm
+salt 2ts
